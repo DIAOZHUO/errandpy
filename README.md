@@ -47,7 +47,7 @@ This tool use GSM to fitting. If you want to use it,
 Citation
 -------------
 
-We will be we will be appreciated if you can cite our work!
+We will be appreciated if you can cite our work!
 
 Z. DIAO, D. Katsube, H. Yamashita, Y. Sugimoto, O. Custance, M. Abe, Appl. Phys. Lett. **117**, 033104 (2020); [https://doi.org/10.1063/5.0007754](https://doi.org/10.1063/5.0007754)
 

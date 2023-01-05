@@ -4,9 +4,9 @@
     <extensionMap>
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="top" type="PLAIN_TEXT" />
-      <mapping ext="pkl" type="PLAIN_TEXT" />
-      <mapping ext="nn" type="PLAIN_TEXT" />
       <mapping ext="pyd" type="PLAIN_TEXT" />
+      <mapping ext="nn" type="PLAIN_TEXT" />
+      <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping pattern="types" type="Python" />
       <mapping pattern="GridResultHistogram" type="Python" />
     </extensionMap>
